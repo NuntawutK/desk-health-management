@@ -1,0 +1,7 @@
+Role(admin)
+username : ratchanon_admin
+password : 123
+
+Role(employee)
+username : ratchanon_emp
+password : 123
